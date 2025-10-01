@@ -7,6 +7,7 @@ Motivated by the puzzling observation that inserting long sequences of meaningle
 <p align="center">
   <img src="./images/example.png" alt="example" width="800">
 </p>
+
 **This image provides an overview of our article.**
 
 ## Contributions
