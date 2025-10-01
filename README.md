@@ -77,6 +77,6 @@ The schematic diagram of ARM is shown following.
 
 ## Acknowledgements
 We gratefully acknowledge the following projects that made this research possible:
-**[code-eval](https://github.com/abacaj/code-eval)**
-**[LiveCodeBench](https://github.com/LiveCodeBench/)**
-**[GPQA](https://github.com/idavidrein/gpqa)**
+- **[code-eval](https://github.com/abacaj/code-eval)**
+- **[LiveCodeBench](https://github.com/LiveCodeBench/)**
+- **[GPQA](https://github.com/idavidrein/gpqa)**
