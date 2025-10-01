@@ -19,7 +19,7 @@ Motivated by the puzzling observation that inserting long sequences of meaningle
 ### Prerequisites
 - Python 3.10+
 - CUDA-compatible GPU
-- CUDA-compatible GPU
+- Conda or virtual environment
 ### Environment Setup
 ```bash
 pip install -r requirements.txt
