@@ -47,7 +47,7 @@ bash pass_3.sh --samples_per_task your_samples
 
 To directly test the effect of adding meaningless tokens on models, you can run:
 ```bash
-bash mless.sh --Mtokens your_samples
+bash mless.sh --Mtokens Meaningless_tokens
 ```
 You can ignore the `Mtokens` parameter; by default, 55 `/` tokens are used.
 
