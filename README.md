@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Quich Start
+### Quick Start
 To quickly test the performance of ARM, you can run:
 
 ```bash
