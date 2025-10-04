@@ -81,7 +81,14 @@ The schematic diagram of ARM is shown following.
 
 
 ## Citation
-
+```
+@article{shi2025meaningless,
+  title={Meaningless Tokens, Meaningful Gains: How Activation Shifts Enhance LLM Reasoning},
+  author={Shi, Zeru and Wan, Yingjia and Wang, Zhenting and Wang, Qifan and Yang, Fan and Kreiss, Elisa and Tang, Ruixiang},
+  journal={arXiv preprint arXiv:2510.01032},
+  year={2025}
+}
+```
 
 ## Acknowledgements
 We gratefully acknowledge the following projects that made this research possible:
